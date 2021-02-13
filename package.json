@@ -1,0 +1,27 @@
+{
+  "name": "wolox-docker",
+  "version": "1.0.0",
+  "description": "This repository is to know the advantages and how to use docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jersonlopez/wolox-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "docker-compose"
+  ],
+  "author": "jersonlopez, jonnyalexbh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jersonlopez/wolox-docker/issues"
+  },
+  "homepage": "https://github.com/jersonlopez/wolox-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
